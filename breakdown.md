@@ -1,6 +1,3 @@
-I understand that you need a concise and organized study plan for your Regents 2 exam focusing on algebra and functions. I'll outline the subjects by grouping them into related topics, making it easier for you to study efficiently.
----
-
 ### Algebra (35% - 44% of the exam)
 1. **Real Number System & Quantities (Major)**
    - Extend properties of exponents to rational exponents
@@ -13,6 +10,7 @@ Let's say we have the expression `8^(2/3)`. We can rewrite this expression as `(
 Now, let's say we want to find the value of `x` that satisfies the equation `x^(3/2) = 27`. We can rewrite this equation as `(x^(1/2))^3 = 27`, which means that the square root of `x` cubed is equal to 27. Taking the cube root of both sides, we get `x^(1/2) = 3`, which means that the square root of `x` is equal to 3. Squaring both sides, we get `x = 9`.
 
 In this example, we used the properties of exponents to rewrite expressions with rational exponents and reasoned quantitatively to solve an equation.
+
 ---
 
 2. **Complex Number System (Additional)**
@@ -33,6 +31,7 @@ Now, let's say we have the polynomial identity `(x + y)^2 = x^2 + 2xy + y^2`. We
            = -7 +24i`
 
 In this example, we used arithmetic operations to manipulate complex numbers and applied a polynomial identity to expand the square of a complex number.
+
 ---
 
 3. **Seeing Structure in Expressions (Major)**
@@ -46,6 +45,7 @@ Let's say we have the expression `2x^2 + 4x + 2`. We can interpret the structure
 We can write this expression in an equivalent form by factoring it. To do this, we can use the factoring method of grouping. First, we can factor out a common factor of 2 from all terms to get `2(x^2 + 2x + 1)`. Then, we can factor the quadratic trinomial inside the parentheses as `(x + 1)^2`. So, our final factored form is `2(x + 1)^2`.
 
 In this example, we interpreted the structure of an expression and wrote it in an equivalent form by factoring it. This can be useful for solving equations or simplifying expressions.
+
 ---
 
 4. **Arithmetic with Polynomials and Rational Expressions (Additional/Supporting)**
@@ -61,6 +61,7 @@ Let's say we have the polynomial identity `(x + y)^2 = x^2 + 2xy + y^2`. We can 
 Now, let's say we have the rational expression `(x^2 - 1) / (x - 1)`. We can rewrite this expression in an equivalent form by factoring the numerator and canceling common factors. To do this, we can factor the numerator as `(x - 1)(x + 1)` and cancel the common factor of `(x - 1)` to get `(x - 1)(x + 1) / (x - 1) = x + 1`.
 
 In this example, we used a polynomial identity to expand the square of a binomial and rewrote a rational expression in an equivalent form by factoring and canceling common factors. 
+
 ---
 
 5. **Creating & Reasoning with Equations and Inequalities (Major/Additional/Supporting)**
@@ -77,6 +78,7 @@ Now, let's say we have the system of equations `x + y = 3` and `2x - y = 4`. We 
 We can also represent and solve this system graphically by plotting the two lines `y = -x + 3` and `y = 2x - 4` on the same coordinate plane. The point where the two lines intersect is the solution to the system, which in this case is `(7/3, 2/3)`.
 
 In this example, we created and solved an equation in one variable, solved a system of equations algebraically and graphically.
+
 ---
 
 6. **Expressing Geometric Properties with Equations (Additional)**
@@ -89,6 +91,7 @@ Let's say we have a circle with center at the point `(3, 4)` and radius of `5` u
 Substituting the values for the center and radius into this equation, we get `(x - 3)^2 + (y - 4)^2 = 5^2`, which simplifies to `(x - 3)^2 + (y - 4)^2 = 25`. This is the equation of the circle in standard form.
 
 In this example, we translated a geometric description of a circle into an equation for the circle by using the standard form of the equation of a circle.
+
 ---
 
 ### Functions (30% - 40% of the exam)
@@ -96,14 +99,15 @@ In this example, we translated a geometric description of a circle into an equat
    - Understand the concept of a function
    - Use function notation
 
-4Here is an example that demonstrates the concept of a function and the use of function notation:
+Here is an example that demonstrates the concept of a function and the use of function notation:
 
 A function is a mathematical relationship between two sets of numbers, where each element in the first set (called the domain) is paired with exactly one element in the second set (called the range). For example, let's say we have a function `f` that takes a number `x` as input and outputs the square of `x`. We can write this function using function notation as `f(x) = x^2`.
 
 Using this function, we can find the output for any input value by substituting the input value into the function. For example, if we want to find the output for the input value `3`, we can substitute `3` into the function to get `f(3) = 3^2 = 9`. This means that when the input to the function `f` is `3`, the output is `9`.
 
 In this example, we defined a function using function notation and used it to find the output for a given input value.
- 
+
+---
 
 3. **Building Functions (Major/Additional)**
    - Build functions that model relationships
