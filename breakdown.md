@@ -109,6 +109,21 @@ In this example, we defined a function using function notation and used it to fi
 
 ---
 
+2. **Interpreting Functions (Major/Supporting)**
+   - Interpret functions that arise in applications
+   - Analyze functions using different representations
+Here is an example of interpreting functions:
+
+Suppose a company produces and sells a certain product. The cost of producing x units of the product is given by the function C(x) = 100 + 5x, where C(x) is measured in dollars. The revenue from selling x units of the product is given by the function R(x) = 10x.
+
+We can interpret these functions in the context of the application. The cost function C(x) tells us that the fixed cost of producing the product is $100, regardless of how many units are produced. The variable cost of producing each unit is $5, so the total cost of producing x units is 100 + 5x.
+
+The revenue function R(x) tells us that the company earns $10 for each unit of the product sold. So, if they sell x units, their total revenue will be 10x.
+
+We can also analyze these functions using different representations. For example, we can graph the functions to visualize how the cost and revenue change as the number of units produced and sold increases. We can also use algebraic methods to find the break-even point, where the cost and revenue are equal. In this case, we can solve the equation C(x) = R(x) to find that the break-even point occurs when x = 20. This means that the company must produce and sell at least 20 units to break even.
+
+---
+
 3. **Building Functions (Major/Additional)**
    - Build functions that model relationships
    - Build new functions from existing ones
