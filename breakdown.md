@@ -15,7 +15,7 @@ In this example, we used the properties of exponents to rewrite expressions with
 ---
 
 2. **Complex Number System (Additional)**
-   - Perform arithmetic operations with complex numbers
+   - Perform arithmetic operations with complex numbers (`z1 = 3 + 4i` and `z2 = 2 - i`.) = 5 + 3i`
    - Use complex numbers in polynomial identities and equations
      
 Here is an example that demonstrates how to perform arithmetic operations with complex numbers and use complex numbers in polynomial identities and equations:
@@ -46,6 +46,17 @@ Let's say we have the expression `2x^2 + 4x + 2`. We can interpret the structure
 We can write this expression in an equivalent form by factoring it. To do this, we can use the factoring method of grouping. First, we can factor out a common factor of 2 from all terms to get `2(x^2 + 2x + 1)`. Then, we can factor the quadratic trinomial inside the parentheses as `(x + 1)^2`. So, our final factored form is `2(x + 1)^2`.
 
 In this example, we interpreted the structure of an expression and wrote it in an equivalent form by factoring it. This can be useful for solving equations or simplifying expressions.
+
+Factoring is a process of rewriting an expression as a product of simpler expressions. In this case, we want to factor the expression `2x^2 + 4x + 2` into an equivalent form that is easier to work with.
+
+One way to do this is by using the factoring method of grouping. This involves grouping terms in the expression and factoring out common factors. Here’s how we can apply this method to our expression:
+
+First, we can factor out a common factor of 2 from all terms in the expression. This gives us `2(x^2 + 2x + 1)`.
+
+Next, we can focus on the quadratic trinomial inside the parentheses: `x^2 + 2x + 1`. This trinomial can be factored into `(x + 1)(x + 1)` or `(x + 1)^2`.
+Substituting this back into our original expression, we get `2(x + 1)^2`.
+
+So, by factoring the expression `2x^2 + 4x + 2` using the method of grouping, we have obtained an equivalent form: `2(x + 1)^2`. This factored form is often easier to work with when solving equations or simplifying expressions.
 
 ---
 
