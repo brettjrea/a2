@@ -93,6 +93,7 @@ Substituting the values for the center and radius into this equation, we get `(x
 In this example, we translated a geometric description of a circle into an equation for the circle by using the standard form of the equation of a circle.
 
 ---
+---
 
 ### Functions (30% - 40% of the exam)
 1. **Understanding Functions (Supporting)**
@@ -135,6 +136,7 @@ Let's say we have a set of data points that represent the relationship between t
 Once we have found the equation for the line of best fit, we can use it to build a new function that predicts the weight of a person given their height. For example, let's say our line of best fit has the equation `y = 0.5x + 100`. We can define a new function `f` that takes a person's height as input and outputs their predicted weight as `f(x) = 0.5x + 100`.
 
 In this example, we used data to build a function that models a relationship and then used that function to build a new function that makes predictions based on the relationship. 
+
 ---
 
 4. **Linear, Quadratic, and Exponential Models (Supporting/Additional)**
@@ -153,6 +155,7 @@ An exponential model might have the form `y = ab^x`, where `a` and `b` are const
 We can compare these models by calculating their predictions for the population at different times and comparing those predictions to the actual data. We can also use statistical methods to determine which model provides the best fit to the data.
 
 In this example, we constructed linear, quadratic, and exponential models to predict population growth and compared their predictions to actual data. 
+
 ---
 
 5. **Trigonometric Functions (Additional)**
@@ -171,8 +174,9 @@ Trigonometric functions can also be used to model periodic phenomena such as the
 Trigonometric identities are equations that are true for all values of the variables. For example, one common trigonometric identity is the Pythagorean identity: `sin^2(x) + cos^2(x) = 1`. We can use this identity to prove other identities or to simplify expressions involving trigonometric functions.
 
 In this example, we used the unit circle to extend the domain of trigonometric functions, modeled periodic phenomena using trigonometric functions, and proved and applied a trigonometric identity. 
----
 
+---
+---
 
 ### Statistics & Probability (14% - 21% of the exam)
 1. **Interpreting Categorical and Quantitative Data (Additional/Supporting)**
@@ -185,6 +189,7 @@ Suppose a botanist walks around a local forest and measures the height of a cert
 On the other hand, suppose a researcher surveys 200 people and asks them about their favorite vacation location. The variable "vacation location" is a categorical variable because it takes on names. For example, responses could include “Miami”, “San Francisco”, “Hilton Head”, etc¹.
 
 To summarize and represent this data, we can use different methods for each type of variable. For categorical variables, we can use frequency tables to show the number of observations in each category. For quantitative variables, we can use descriptive statistics such as mean, median, mode, range, interquartile range, and standard deviation to summarize the data¹.
+
 ---
 
 2. **Making Inferences and Justifying Conclusions (Major/Supporting)**
@@ -198,6 +203,7 @@ Suppose a researcher wants to study the effectiveness of a new drug in treating 
 To make inferences and justify conclusions from this study, the researcher can use statistical methods to analyze the data. For example, they can use hypothesis testing to determine if there is a significant difference in health outcomes between the treatment and control groups. If the results show that there is a significant difference, the researcher can conclude that the new drug is effective in treating the disease.
 
 In addition, the researcher can use confidence intervals to estimate the true effect of the new drug. A confidence interval provides a range of plausible values for the true effect, based on the data collected in the study. The researcher can use this information to make more precise conclusions about the effectiveness of the new drug.
+
 --- 
 
 3. **Conditional Probability and the Rules of Probability (Additional)**
@@ -223,6 +229,7 @@ We can also use the rules of probability to compute the probability that a rando
 P(BB) = P(BB | B) * P(B) + P(BB | G) * P(G) = 0.5 * 0.6 + 0.5 * 0.4 = 0.5
 
 So, the probability that a randomly selected student from this school plays basketball is 0.5.
+
 ---
 
 Remember to allocate your study time based on the emphasis of each topic. Focus on the "Major" categories and algebra/functions, but don't ignore the "Additional" and "Supporting" categories, as they can still be significant parts of the exam. Good luck with your studies!
