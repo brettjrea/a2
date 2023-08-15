@@ -1,7 +1,7 @@
 ### Algebra (35% - 44% of the exam)
 1. **Real Number System & Quantities (Major)**
-   - Extend properties of exponents to rational exponents
-   - Reason quantitatively and use units to solve problems
+   - Extend properties of exponents to rational exponents (Take irrational exponents and make them rational.)
+   - Reason quantitatively and use units to solve problems (Isolate X using the properties of exponents.)
 
 Here is an example that demonstrates how to extend the properties of exponents to rational exponents and reason quantitatively:
 
@@ -10,6 +10,7 @@ Let's say we have the expression `8^(2/3)`. We can rewrite this expression as `(
 Now, let's say we want to find the value of `x` that satisfies the equation `x^(3/2) = 27`. We can rewrite this equation as `(x^(1/2))^3 = 27`, which means that the square root of `x` cubed is equal to 27. Taking the cube root of both sides, we get `x^(1/2) = 3`, which means that the square root of `x` is equal to 3. Squaring both sides, we get `x = 9`.
 
 In this example, we used the properties of exponents to rewrite expressions with rational exponents and reasoned quantitatively to solve an equation.
+
 
 ---
 
